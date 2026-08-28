@@ -6,6 +6,5 @@
 </p>
 
 <p align="center">
-  <sub><sup><a href="https://rennee.atabook.org/">新</a></sup></sub>
-
+   <sup><sup><a href="https://rennee.atabook.org/">新</a></sup></sub> ⠀⠀⠀⠀ <sub><sup><a href="https://rentry.co/blxckwxter">rentry</a></sup><sup>
 </p>
