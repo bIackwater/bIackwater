@@ -5,3 +5,7 @@
 
 </p>
 
+<p align="center">
+  <sub><sup><a href="https://rennee.atabook.org/">新</a></sup></sub>
+
+</p>
